@@ -17,7 +17,7 @@ Unambiguously, due to the disparate nature of data and technologies employed, th
 ## What is the scope of the project?
 How to improve discovery, exploration & analysis of organizational 'dark data' with the aim of maximizing derived value, in the most timely manner, to facilitate best possible decision-making?
 
-The proposal will be aligned with the Big Data Management Canvas (BDMC) proposed Kaufmann (2019) – a reference model for big data applications in an organisation for value creating from data by aligning business goals with technical implementation.
+The proposal will be aligned with the Big Data Management Canvas (BDMC) proposed Kaufmann (2019)[<sup>2</sup>](#2) – a reference model for big data applications in an organisation for value creating from data by aligning business goals with technical implementation.
 
 ### Solution(s)
 We will investigate a numer of (potential) solutions, including ...
@@ -38,10 +38,13 @@ As an alternative to storing as-is (with no filtering) and processing persisted 
 ## What is the timeline of the project?
 
 ## What is your target audience?
+The targte audience, for this project, is anyone who is trying to enable more, better & quicker insights to be derived from data collection, storage & processing systems working in 'big' data domain(s).
 
 ## What is your target platform (i.e. how will it be delivered)?
 
 ## What are your personal goals in building this project?
 
 ## References
-<a name="1">1: </a>Energy sector includes companies involved in the exploration and development of oil or gas reserves, oil and gas drilling and refining, or integrated power utility companies including renewable energy and coal.
+- <a name="1">1: </a>Energy sector includes companies involved in the exploration and development of oil or gas reserves, oil and gas drilling and refining, or integrated power utility companies including renewable energy and coal.
+- <a name="2">2: </a>[Big Data Management Canvas: A Reference Model
+for Value Creation from Data](https://www.researchgate.net/publication/331679781_Big_Data_Management_Canvas_A_Reference_Model_for_Value_Creation_from_Data)
